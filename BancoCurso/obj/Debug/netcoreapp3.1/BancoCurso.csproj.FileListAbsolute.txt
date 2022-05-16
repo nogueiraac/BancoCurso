@@ -1,0 +1,14 @@
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\bin\Debug\netcoreapp3.1\BancoCurso.exe
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\bin\Debug\netcoreapp3.1\BancoCurso.deps.json
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\bin\Debug\netcoreapp3.1\BancoCurso.runtimeconfig.json
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\bin\Debug\netcoreapp3.1\BancoCurso.runtimeconfig.dev.json
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\bin\Debug\netcoreapp3.1\BancoCurso.dll
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\bin\Debug\netcoreapp3.1\BancoCurso.pdb
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\obj\Debug\netcoreapp3.1\BancoCurso.csproj.AssemblyReference.cache
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\obj\Debug\netcoreapp3.1\BancoCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\obj\Debug\netcoreapp3.1\BancoCurso.AssemblyInfoInputs.cache
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\obj\Debug\netcoreapp3.1\BancoCurso.AssemblyInfo.cs
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\obj\Debug\netcoreapp3.1\BancoCurso.csproj.CoreCompileInputs.cache
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\obj\Debug\netcoreapp3.1\BancoCurso.dll
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\obj\Debug\netcoreapp3.1\BancoCurso.pdb
+C:\Users\arthur.nogueira\Desktop\workspace\BancoCurso\BancoCurso\obj\Debug\netcoreapp3.1\BancoCurso.genruntimeconfig.cache
